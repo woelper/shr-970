@@ -143,3 +143,13 @@ TheShootingEdge http://www.theshootingedge.com/
 
 MISCELLANEOUS
 The sling stud part name for the McMillan STR (American freeland) bottom rail is "Harris Adaptor 6A".
+
+
+### Misc
+Article about the gun in the German Caliber magazine:
+
+
+![c1](media/caliber/2012-03-08_caliber_1.pdf "c1")
+![c1](media/caliber/2012-03-08_caliber_2.pdf "c1")
+![c1](media/caliber/2012-03-08_caliber_3.pdf "c1")
+![c1](media/caliber/2012-03-08_caliber_4.pdf "c1")
