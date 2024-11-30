@@ -14,6 +14,7 @@ Group.suppress=0
 Group.relaxConstraints=0
 Group.allowRedundant=0
 Group.allDimsReference=0
+Group.scale=1.00000000000000000000
 Group.remap={
 }
 AddGroup
@@ -36,6 +37,7 @@ Group.suppress=0
 Group.relaxConstraints=0
 Group.allowRedundant=0
 Group.allDimsReference=0
+Group.scale=1.00000000000000000000
 Group.remap={
 }
 AddGroup
@@ -281,7 +283,7 @@ Param.val=-69.36939564260843837928
 AddParam
 
 Param.h.v.=000c0016
-Param.val=-3.85742216822508199314
+Param.val=-3.85742216822512062890
 AddParam
 
 Param.h.v.=000c0017
@@ -289,7 +291,7 @@ Param.val=-69.29817354249770744445
 AddParam
 
 Param.h.v.=000c0019
-Param.val=-3.86298587655818836950
+Param.val=-3.86298587655822700526
 AddParam
 
 Param.h.v.=000c001a
@@ -750,7 +752,7 @@ Entity.h.v=000c0003
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80020000
-Entity.actPoint.x=-3.85742216822508199314
+Entity.actPoint.x=-3.85742216822512062890
 Entity.actPoint.y=-69.29817354249770744445
 Entity.actVisible=1
 AddEntity
@@ -759,7 +761,7 @@ Entity.h.v=000c0004
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80020000
-Entity.actPoint.x=-3.86298587655818836950
+Entity.actPoint.x=-3.86298587655822700526
 Entity.actPoint.y=-66.60953487337611989005
 Entity.actVisible=1
 AddEntity
