@@ -32,4 +32,4 @@ https://jagerblut.de/montagen/nach-waffenmodell/swiss-arms-shr-970/?p=2
 
 
 ### Trigger guard
-![Alt text](media/trigger_guardsvg "Trigger Guard")
+![Alt text](media/trigger_guard.svg "Trigger Guard")
