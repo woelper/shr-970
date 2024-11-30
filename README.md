@@ -14,26 +14,25 @@ STR 970
 ![Alt text](media/str.jpg "STR")
 
 SHR970 and STR970
+
 Both rifles use the same SHR action. The only difference between the two is that the SHR970 comes with a choice of either a wood or synthetic stock (believed to be a Bell & Carlson) while the STR970 has a McMillan stock (similar to an A3) and a heavy-fluted barrel with an integrated muzzle brake. Interestingly, some STR970's were made with receivers marked "SHR" instead of "STR".
 
-ROUGH TIMELINE
-1998
+#### ROUGH TIMELINE
+
+##### 1998
 SIGArms imports the SHR 970 from Swiss Arms Neuhausen, a SIG Holding AG related entity.
 
-2000
+##### 2000
 SIGArms imports the STR 970 from Swiss Arms Neuhausen, a SIG Holding AG related entity.
 
-2001
+##### 2001
 SIGArms stops importing the 970 series and disperses remaining SHR/STR inventory throughout North America.
 
-DEC/2005
+##### DEC/2005
 Lay-offs announced at the Swiss Arms Neuhausen factory, regular production of the 970 ends; replacement parts (including barrels) still being made as of FEB/2008.
 
-OCT/2007
+##### OCT/2007
 SIGArms changes its name to SIG-Sauer.
-
-BASES/MOUNTS
-While not widely-known, there are many choices from 2-pieces to picatinny rails.
 
 Please refer to [this source](https://thefiringline.com/forums/showthread.php?t=286646) for the original information.
 
