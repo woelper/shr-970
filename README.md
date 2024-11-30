@@ -35,25 +35,6 @@ SIGArms changes its name to SIG-Sauer.
 BASES/MOUNTS
 While not widely-known, there are many choices from 2-pieces to picatinny rails.
 
-
-MAGAZINES
-The non-magnum calibers all use the same non-magnum magazines and similarly for the magnum calibers. All factory magazines have the SIG Holding AG logo (the word "SIG" inside an oval) at the bottom; however, some factory magazines also had multiple caliber markings stamped on the left side, viz:
-SIG arms
-.243 Win.
-.308 Win.
-7mm-08
-7.5x55
-
-WHERE TO BUY SPARE PARTS, NORTH AMERICA
-CDNN Investments http://www.cdnninvestments.com/
-Numrich http://www.e-gunparts.com/
-TheShootingEdge http://www.theshootingedge.com/
-
-
-MISCELLANEOUS
-The sling stud part name for the McMillan STR (American freeland) bottom rail is "Harris Adaptor 6A".
-
-
 Please refer to [this source](https://thefiringline.com/forums/showthread.php?t=286646) for the original information.
 
 
@@ -144,6 +125,22 @@ Based on info from Leupold, SIGArms, and Warne, anything that fits the Browning 
 ### Magizines
 Magazines are hard to find. [Please open an issue](https://github.com/woelper/shr-970/issues/new) on this page if you have sources.
 
+MAGAZINES
+The non-magnum calibers all use the same non-magnum magazines and similarly for the magnum calibers. All factory magazines have the SIG Holding AG logo (the word "SIG" inside an oval) at the bottom; however, some factory magazines also had multiple caliber markings stamped on the left side, viz:
+SIG arms
+.243 Win.
+.308 Win.
+7mm-08
+7.5x55
 
 ### Compatibility
 I am currently trying to evaluate if different magazines such as AICS can be used by swapping the buttplate. Please let me know through [opening an issue](https://github.com/woelper/shr-970/issues/new) if you know more.
+
+WHERE TO BUY SPARE PARTS, NORTH AMERICA
+CDNN Investments http://www.cdnninvestments.com/
+Numrich http://www.e-gunparts.com/
+TheShootingEdge http://www.theshootingedge.com/
+
+
+MISCELLANEOUS
+The sling stud part name for the McMillan STR (American freeland) bottom rail is "Harris Adaptor 6A".
