@@ -121,7 +121,7 @@ Based on info from Leupold, SIGArms, and Warne, anything that fits the Browning 
 ![Alt text](media/trigger_guard.svg "Trigger Guard")
 
 
-### Magizines
+### Magazines
 Magazines are hard to find. [Please open an issue](https://github.com/woelper/shr-970/issues/new) on this page if you have sources.
 
 MAGAZINES
