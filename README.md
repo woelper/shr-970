@@ -6,8 +6,11 @@ As a SHR 970 owner, maintaining and improving the rifle is challenging. The aim 
 
 ### History
 SHR 970
+
 ![Alt text](media/shr.jpg "SHR")
+
 STR 970
+
 ![Alt text](media/str.jpg "STR")
 
 SHR970 and STR970
