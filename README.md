@@ -149,7 +149,7 @@ The sling stud part name for the McMillan STR (American freeland) bottom rail is
 Article about the gun in the German Caliber magazine:
 
 
-![c1](media/caliber/2012-03-08_caliber_1.pdf "c1")
-![c1](media/caliber/2012-03-08_caliber_2.pdf "c1")
-![c1](media/caliber/2012-03-08_caliber_3.pdf "c1")
-![c1](media/caliber/2012-03-08_caliber_4.pdf "c1")
+![Page 1](media/caliber/2012-03-08_caliber_1.pdf "Page 1")
+![Page 2](media/caliber/2012-03-08_caliber_2.pdf "Page 2")
+![Page 3](media/caliber/2012-03-08_caliber_3.pdf "Page 3")
+![Page 4](media/caliber/2012-03-08_caliber_4.pdf "Page 4")
