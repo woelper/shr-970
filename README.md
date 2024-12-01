@@ -135,21 +135,33 @@ SIG arms
 ### Compatibility
 I am currently trying to evaluate if different magazines such as AICS can be used by swapping the buttplate. Please let me know through [opening an issue](https://github.com/woelper/shr-970/issues/new) if you know more.
 
-WHERE TO BUY SPARE PARTS, NORTH AMERICA
-CDNN Investments http://www.cdnninvestments.com/
-Numrich http://www.e-gunparts.com/
-TheShootingEdge http://www.theshootingedge.com/
-
-
-MISCELLANEOUS
 The sling stud part name for the McMillan STR (American freeland) bottom rail is "Harris Adaptor 6A".
+
+
+The *SIG 98* looks extremely similar. Apparently it is the predecessor of the SHR 970:
+
+![](media/sig98-1.avif "sig98")
+![](media/sig98-2.avif "sig98")
+
+
+
+
+
 
 
 ### Misc
 Article about the gun in the German Caliber magazine:
 
-
 ![Page 1](media/caliber/2012-03-08_caliber_1.pdf "Page 1")
 ![Page 2](media/caliber/2012-03-08_caliber_2.pdf "Page 2")
 ![Page 3](media/caliber/2012-03-08_caliber_3.pdf "Page 3")
 ![Page 4](media/caliber/2012-03-08_caliber_4.pdf "Page 4")
+
+
+WHERE TO BUY SPARE PARTS, NORTH AMERICA
+
+CDNN Investments http://www.cdnninvestments.com/
+Numrich http://www.e-gunparts.com/
+TheShootingEdge http://www.theshootingedge.com/
+
+
